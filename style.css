@@ -23,17 +23,17 @@ body, html{
 }
 
 .pimg1{
-  background-image:url('images/img1.jpg');
+  background-image:url('https://media.cntraveler.com/photos/5aaac20c60ef3f51835c5be5/16:9/w_2580,c_limit/Rock-Of-Cashel-GettyImages-165559826.jpg');
   min-height:100%;
 }
 
 .pimg2{
-  background-image:url('images/img2.jpg');
+  background-image:url('https://travelingcanucks.com/wp-content/uploads/2018/03/ireland-top-attractions-06.jpg');
   min-height:400px;
 }
 
 .pimg3{
-  background-image:url("Images/img3.jpg");
+  background-image:url("https://jw-webmagazine.com/wp-content/uploads/2019/06/jw-5d15da96c49484.64193252.jpeg");
   min-height:400px;
 }
 
